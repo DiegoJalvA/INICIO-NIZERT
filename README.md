@@ -18,11 +18,11 @@ Una interfaz moderna de inicio de sesión con un fondo animado interactivo, crea
 
 ## 📁 Estructura del Proyecto
 
-├── index.html # Página principal con el formulario 
-├── style.css # Estilos del login y fondo 
-├── bola.js # Clase Bola para las partículas
-├── script.js # Animación e interacción con el canvas 
-├── prueba.png # Logo mostrado en la interfaz
+├── index.html       // Página principal con el formulario
+├── style.css        // Estilos del login y fondo animado
+├── bola.js          // Clase para las partículas del canvas
+├── script.js        // Animación e interacción con el canvas
+├── prueba.png       // Logo mostrado en la interfaz
 
 
 ## 🧪 Vista previa
