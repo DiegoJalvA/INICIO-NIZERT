@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Fondo animado */
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    background: black;
+}
+
+/* Contenedor del formulario */
+.login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    text-align: center;
+    color: white;
+    width: 300px;
+}
+
+/* Logo y Título */
+.logo-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.logo-title img {
+    width: 40px;  /* Ajusta el tamaño del logo */
+    height: 40px;
+}
+
+.logo-title h1 {
+    font-size: 28px;
+}
+
+.login-container h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: #ff5722;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+}
+
+.login-container button:hover {
+    background: #e64a19;
+}
+
+.extra-links {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.extra-links a {
+    color: #ff5722;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.extra-links a:hover {
+    text-decoration: underline;
+}
