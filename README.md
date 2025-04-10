@@ -24,7 +24,7 @@ Una interfaz moderna de inicio de sesión con un fondo animado interactivo, crea
 ├── bola.js          // Clase para las partículas del canvas
 ├── script.js        // Animación e interacción con el canvas
 ├── prueba.png       // Logo mostrado en la interfaz
-
+```
 
 
 ## 🧪 Vista previa
