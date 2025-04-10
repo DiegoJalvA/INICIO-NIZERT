@@ -44,7 +44,7 @@ https://pruebadeparticulas.netlify.app
 
 Puedes escribirme o ver más de mis proyectos aquí:
 
-- GitHub: [@tuusuario](https://github.com/tuusuario)
+- GitHub: https://github.com/DiegoJalvA
 - Portafolio: [Tu sitio si ya lo tienes online]
 
 ---
