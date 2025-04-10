@@ -27,7 +27,7 @@ Una interfaz moderna de inicio de sesión con un fondo animado interactivo, crea
 
 ## 🧪 Vista previa
 
-![Preview](ruta/a/una/captura.png)
+![Preview](captura.png)
 
 > *Reemplaza la ruta anterior con una imagen subida a GitHub o GitHub Pages.*
 
